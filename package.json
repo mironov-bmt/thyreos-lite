@@ -1,0 +1,32 @@
+{
+  "name": "thyreos-lite",
+  "version": "1.0.0",
+  "description": "Educational browser-based file encryption tool using RSA-4096, ECDSA P-256, and AES-256-GCM",
+  "main": "index.html",
+  "scripts": {
+    "start": "echo 'Open index.html directly in your browser. No server required.'",
+    "serve": "python3 -m http.server 8080 || python -m SimpleHTTPServer 8080"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mironov-bmt/thyreos-lite.git"
+  },
+  "keywords": [
+    "encryption",
+    "cryptography",
+    "browser",
+    "web-crypto-api",
+    "rsa",
+    "ecdsa",
+    "aes-gcm",
+    "educational",
+    "client-side",
+    "security"
+  ],
+  "author": "Thyreos Lite Contributors",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mironov-bmt/thyreos-lite/issues"
+  },
+  "homepage": "https://github.com/mironov-bmt/thyreos-lite#readme"
+}

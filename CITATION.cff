@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this software for academic purposes, please cite it as below."
+title: "Thyreos Lite"
+version: 1.0.0
+date-released: 2026-06-30
+authors:
+  - family-names: "Thyreos"
+    given-names: "Lite"
+    affiliation: "Educational Cryptography Project"
+repository-code: "https://github.com/mironov-bmt/thyreos-lite"
+license: MIT
+keywords:
+  - cryptography
+  - browser-based encryption
+  - web crypto api
+  - rsa
+  - ecdsa
+  - aes-gcm
+  - educational tool
