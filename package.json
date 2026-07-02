@@ -1,0 +1,16 @@
+{
+  "name": "thyreos-lite",
+  "version": "3.0.0",
+  "description": "Browser-based file encryption. PBKDF2 + AES-256-GCM. Client-side only.",
+  "main": "index.html",
+  "scripts": {
+    "start": "echo 'Open index.html in your browser'"
+  },
+  "keywords": ["encryption", "aes-gcm", "pbkdf2", "web-crypto-api", "client-side", "browser", "security"],
+  "author": "mironov-bmt",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mironov-bmt/thyreos-lite-v2"
+  }
+}

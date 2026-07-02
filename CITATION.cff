@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Thyreos-lite"
+version: 3.0.0
+date-released: 2026-07-02
+authors:
+  - family-names: "Mironov"
+    given-names: "BMT"
+repository-code: "https://github.com/mironov-bmt/thyreos-lite-v2"
+license: MIT
+keywords:
+  - encryption
+  - aes-gcm
+  - pbkdf2
+  - web-crypto-api
+  - client-side
+  - browser
+  - security
